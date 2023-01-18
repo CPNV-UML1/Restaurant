@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ce dépôt "restaurant" est un exemple de réaliser d'un diagramme de cas d'utilisation et de de diagramme de classes, les deux basés sur le descriptif publié sur le [gitbook du cours](https://app.gitbook.com/s/bOCcNmNHBojQtaqLPBlc/projet-recapitualitif/sprint-1).
+Ce dépôt "restaurant" est un exemple de réalisation d'un diagramme de cas d'utilisation et de de diagramme de classes, les deux basés sur le descriptif publié sur le [gitbook du cours UML1](https://app.gitbook.com/s/bOCcNmNHBojQtaqLPBlc/projet-recapitualitif/sprint-1).
 
 ## Réalisation
 
@@ -14,7 +14,7 @@ Ce dépôt "restaurant" est un exemple de réaliser d'un diagramme de cas d'util
 
 Tout les documents conceptuels sont livrés en format png ou pdf.
 
-Le code a été réalisé en Java (JDK 18).
+Le code a été écrit Java (JDK 18).
 
 ## Structure du dépot
 
