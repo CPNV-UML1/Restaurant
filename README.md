@@ -39,4 +39,3 @@ Ce projet "Restaurant" est un projet permettant d'évaluer vos compétences en m
 2. Réaliser le diagramme de classes
 3. Coder l'architecture dans le langage de votre choix
 4. Livrer le tout sur votre dépôt git. Créer une issue (en mentionnnat @nicolas.glassey) pour demander la review.
-```
